@@ -6,7 +6,7 @@ This is a simple Amazon India clone created using HTML and CSS, aimed at replica
 Check out the live demo of the Amazon India Clone [here](https://www.amazon.com/).
 
 ## Demo
-Check out the live demo of the Amazon India Clone ![amazon india clone](/demo.png).
+Check out the demo of the Amazon India Clone ![amazon india clone](demo.png).
 
 
 ## To run this project locally, follow these steps:
