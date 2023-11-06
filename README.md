@@ -3,10 +3,10 @@
 This is a simple Amazon India clone created using HTML and CSS, aimed at replicating the basic functionalities and design elements of the Amazon India website. This project serves as a demonstration of front-end development skills and an understanding of web design principles.
 
 ## Source Website
-Check out the live demo of the Amazon India Clone[here](https://www.amazon.com/).
+Check out the live demo of the Amazon India Clone [here](https://www.amazon.com/).
 
 ## Demo
-Check out the live demo of the Amazon India Clone [here](https://www.google.com/).
+Check out the live demo of the Amazon India Clone ![amazon india clone](/demo.png).
 
 
 ## To run this project locally, follow these steps:
