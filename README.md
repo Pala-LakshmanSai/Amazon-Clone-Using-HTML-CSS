@@ -12,7 +12,7 @@ Check out the screenshot of my Amazon India Clone (you may not be able to see th
 
 ## To run this project locally, follow these steps:
 
-1. Clone this repository to your local machine using git clone https://github.com/Pala-LakshmanSai/Amazon-Clone-Using-HTML-CSS.git
+1. Clone this repository to your local machine using `git clone https://github.com/Pala-LakshmanSai/Amazon-Clone-Using-HTML-CSS.git`
 2. Navigate to the project directory.
 3. Open the index.html file in your web browser.
 
