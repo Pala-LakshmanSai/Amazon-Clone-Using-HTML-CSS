@@ -9,6 +9,7 @@ Check out the live demo of the Amazon India website [here](https://www.amazon.co
 Check out the screenshot of my Amazon India Clone (you may not be able to see the image due to network issues; in such cases, do check out "demo.png" in the same repo) :
 ![amazon india clone](demo.png).
 
+## Live Demo [here](https://amazon-clone-using-html-css.vercel.app/)
 
 ## To run this project locally, follow these steps:
 
