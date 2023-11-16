@@ -205,6 +205,7 @@ span {
     background-color: #fff;
     padding: 25px 15px;
     margin-bottom: 20px;
+    min-width: 350px;
 }
 .box-content h2 {
     font-size: 21px;
@@ -212,7 +213,7 @@ span {
 .box-image {
     background-size: cover;
     height: 260px;
-    width: 300px;
+    width: 100%;
     margin: 13px 0px 15px 0px;
 }
 .box1 .box-image {
@@ -265,8 +266,6 @@ span {
     padding: 20px 10px;
     background-color: rgb(35,47,62);
     display: flex;
-    justify-content: center;
-    align-items: center;    
     padding: 43px 250px 60px 250px;
 }
 .footer-panel-2 ul {
@@ -279,8 +278,13 @@ span {
     align-items: flex-start;
     width: 100%;
     color: white;
+    flex-wrap: wrap;
 }
-
+.panel2 div {
+    min-width: 230px;
+    text-align: center;
+    margin-bottom: 30px;
+}
 .panel2 p {
     font-size: 14px;
     font-weight: 600;
